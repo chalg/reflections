@@ -13,13 +13,14 @@ change?
 
 Review the changes that are in the staging area before committing
 What are some situations when branches would be helpful in keeping your history
-organized?
-How would branches help?
+ organized? How would branches help?
 
 
+Branches would make it easier if you introduce major changes that are experimental in nature
 How do the diagrams help you visualize the branch structure?
 
 
+They make it easier to conceptualise what is happening.
 What is the result of merging two branches together?
 Why do we represent it in
 the diagram the way we do?
