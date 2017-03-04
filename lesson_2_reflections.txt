@@ -1,17 +1,17 @@
-﻿What happens when you initialize a repository?
-We need to tell git that we want a group of files to be a repository.
-Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
+We need to tell git that we want a group of files to be a repository.
 
 How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
 
-What value do you think it offers?
 
-
+I think this is a similar concept to testing, where you can having a staging database as a step before the production database for testing.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
 
+Review the changes that are in the staging area before committing
 What are some situations when branches would be helpful in keeping your history
 organized?
 How would branches help?
